@@ -3,7 +3,6 @@ This repository contains the code, research paper, dataset, and presentation sli
 
 ## Contents:
 
-
 1. Introduction
 2. Dataset
 3. Research Paper
